@@ -1,2 +1,2 @@
 # ExploDroid
-ROS package for the ExploDroid project done as part of microsoft innovation lab, june-july 2017
+The repository contains the ROS (Robot Operating System) package and embedded software files (arduino) of ExploDroid Robot.
